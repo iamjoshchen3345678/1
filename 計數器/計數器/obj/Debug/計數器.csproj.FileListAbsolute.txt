@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\計數器\計數器\bin\Debug\計數器.exe.config
+C:\Users\user\source\repos\計數器\計數器\bin\Debug\計數器.exe
+C:\Users\user\source\repos\計數器\計數器\bin\Debug\計數器.pdb
+C:\Users\user\source\repos\計數器\計數器\obj\Debug\計數器.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\計數器\計數器\obj\Debug\計數器.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\計數器\計數器\obj\Debug\計數器.計數器.resources
+C:\Users\user\source\repos\計數器\計數器\obj\Debug\計數器.計數開始.resources
+C:\Users\user\source\repos\計數器\計數器\obj\Debug\計數器.Properties.Resources.resources
+C:\Users\user\source\repos\計數器\計數器\obj\Debug\計數器.csproj.GenerateResource.cache
+C:\Users\user\source\repos\計數器\計數器\obj\Debug\計數器.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\計數器\計數器\obj\Debug\計數器.exe
+C:\Users\user\source\repos\計數器\計數器\obj\Debug\計數器.pdb
